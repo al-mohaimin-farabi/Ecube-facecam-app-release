@@ -6,7 +6,7 @@ This guide provides instructions on how to set up and use the dedicated FaceCam 
 
 The FaceCam app is currently available as a direct APK download for Android devices.
 
-*   **Download Link**: [Download Ecube_FaceCam.apk](https://github.com/al-mohaimin-farabi/facecam2.0-App/releases/download/v1.0.0/Ecube_FaceCam.apk)
+*   **Download Link**: [Download Ecube_FaceCam.apk](https://github.com/al-mohaimin-farabi/Ecube-facecam-app-release/releases/download/v1.0.0/Ecube_FaceCam.apk)
 *   **Install Instructions**: 
     1.  Open the downloaded `.apk` file.
     2.  If prompted, allow your browser or file manager to "Install apps from unknown sources".
